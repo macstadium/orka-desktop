@@ -5,11 +5,11 @@ Orka Desktop is your ultimate tool for seamless macOS virtualization. Designed f
 - **Create and manage VMs locally:**
   - Create and configure macOS VMs on your local machine.
   - A user-friendly GUI for managing VMs.
-- **Update VMs:**
-  - Seamlessly update and save your VMs with new OS versions or custom software.
-- **Share VMs with colleagues:**
-  - Push your updated VMs to a registry for easy sharing.
-  - Colleagues can pull VMs from the registry to their local environments.
+- **Use OCI Images:**
+  - Seamlessly update and save your VMs as OCI Images with new OS versions or custom software.
+- **Share Images with colleagues:**
+  - Push your updated OCI Images to a registry for easy sharing.
+  - Colleagues can pull OCI Images from the registry to their local environments.
     
 ## Getting Started with Orka Desktop
 ### Download and Installation:
