@@ -33,6 +33,6 @@ Orka Desktop is your ultimate tool for seamless macOS virtualization. Designed f
 
 ## Learn More and Join the Community
 ### Issues and Discussions:
-- Use the [Disucssions section|https://github.com/macstadium/orka-desktop/discussions] to ask questions, provide feedback, or share your use case.
-- Use the [Issues section|https://github.com/macstadium/orka-desktop/issues] to file a bug or feature request.
+- Use the [Disucssions section](https://github.com/macstadium/orka-desktop/discussions) to ask questions, provide feedback, or share your use case.
+- Use the [Issues section](https://github.com/macstadium/orka-desktop/issues) to file a bug or feature request.
  
