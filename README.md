@@ -16,7 +16,7 @@ Orka Desktop is your ultimate tool for seamless macOS virtualization. Designed f
 - Download the latest .dmg from https://github.com/macstadium/orka-desktop/releases move into your Applications folder.
 
 ### Getting Started Guide:
-- Comprehensive guide to help you begin using Orka Desktop is available at https://orkadocs.macstadium.com/docs/desktop-getting-started
+- Comprehensive guide to help you begin using Orka Desktop is available at https://support.macstadium.com/hc/en-us/sections/29841535305371-Orka-Desktop
 - Within the guide, you will find steps for creating, updating, and sharing VMs.
 
 ## Use Cases and Benefits
@@ -36,3 +36,4 @@ Orka Desktop is your ultimate tool for seamless macOS virtualization. Designed f
 - Use the [Disucssions section](https://github.com/macstadium/orka-desktop/discussions) to ask questions, provide feedback, or share your use case.
 - Use the [Issues section](https://github.com/macstadium/orka-desktop/issues) to file a bug or feature request.
  
+
